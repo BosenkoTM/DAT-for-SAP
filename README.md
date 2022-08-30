@@ -92,5 +92,5 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## Summary table of literature sources
 Разделы | 👨‍🏫 Курсы | 📚 Книги | 📊 Данные | 🙋‍♂️ Посты | ✊ Софт
 --- | --- | --- | --- | --- | ---
-Data Analyst with Python | [Data Analyst](https://github.com/elmoallistair/datacamp-data-analyst-with-python) | [Книги по Data Analyst](https://practicum.yandex.ru/blog/top-knig-po-analitike/) | + | [Источники, посвященные Big Data](books/social_data_science.md) | [Программы и библиотеки для работы с большими данными](/books/software_big_data.md#программы-и-библиотеки-для-bigdata)
+Data Analyst with Python | [Data Analyst](https://github.com/elmoallistair/datacamp-data-analyst-with-python) | [Книги по Data Analyst](https://practicum.yandex.ru/blog/top-knig-po-analitike/) | + | [Источники ](books/social_data_science.md) | [Программы и библиотеки ](https://habr.com/ru/post/542718/)
 
