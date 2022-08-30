@@ -7,7 +7,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Программное обеспечение 
 
- - **`Google Colaboratory**` — бесплатная среда, чтобы писать код в jupyter notebook. Источник: https://sky.pro/media/google-colab [Google Colaboratory](  https://colab.research.google.com/).
+ - **`Google Colaboratory**` — бесплатная среда, чтобы писать код в jupyter notebook. [Google Colaboratory](  https://colab.research.google.com/).
 
 
 ## Текущая успеваемость
