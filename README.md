@@ -62,11 +62,6 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 16.	Программное обеспечение для визуализации и информационной панели.
 
 
-## self-study
-
-- `Семинар 1`. [Основные команды в Ubuntu](https://github.com/BosenkoTM/BigDataAnalitic_Practice/blob/main/common/docs/basic_shell_commands.md)
-- [Альтернативное практическое изучение инструментов **Big Data**](https://github.com/BosenkoTM/BigDataAnalitic_Practice#practice)
-
 ## ТЕСТ 1. 
 
 [ССЫЛКА ДЛЯ ВХОДА]()
