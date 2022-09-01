@@ -9,7 +9,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
  - **`Google Colaboratory`** — бесплатная среда, чтобы писать код в jupyter notebook. [Google Colaboratory](  https://colab.research.google.com/).
  - **`Студия данных Google`** [DataStudio](https://datastudio.google.com/navigation/reporting).
- - **`Yandex DataLens`** [DataLens](https://datalens.yandex.ru/).
+ - **`Yandex DataLens`** — cервис визуализации и анализа данных. [DataLens](https://datalens.yandex.ru/).
 
 ## Текущая успеваемость
 
