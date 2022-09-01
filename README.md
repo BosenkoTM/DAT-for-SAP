@@ -22,7 +22,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 02`:
     - [Product analytics](lectures/)
 -  Practice: 
-    -  [Product analytics](practice/).
+    -  [Product analytics](/practice/1_pr).
     
 - `lecture 03`:
     - [Marketing Analytics](lectures/)
