@@ -20,8 +20,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [Introduction to Data analytics](/lectures/lecture_01.pdf)
 
 - `lecture 02`:
-    - [Product analytics](lectures/)
+    - [Product analytics]()
 -  Practice: 
+    -  [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization).
     -  [Product analytics](/practice/1_pr).
     
 - `lecture 03`:
