@@ -13,7 +13,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Текущая успеваемость
 
- [ЦТ-201]()
+ [АДЭУ-211]()
 
 ## Data analytics tools for solving applied problems
 
