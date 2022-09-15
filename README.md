@@ -30,6 +30,27 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - [Инструменты интеграции и удаление файлов (ETL)]()
 -  Practice: 
     - 03 [Работа в ETL-системе Talend](/practice/ex_03/pr_03_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
+
+### Домашняя работа 1
+Вам необходимо скачать и запустить Pentaho Data Integration Community Edition. Это бесплатный ETL инструмент, который работает на Windows, Linux и Mac. Вы можете скачать его [отсюда](https://sourceforge.net/projects/pentaho/). Pentaho DI требует установку Java 8. Попробуйте скачать архив и распаковать его. Вам нужно запустить spoon.sh для Linux/Mac и spoon.bat для Windows. У меня на Mac есть, например, иконка, `Data integration`. Если появятся вопросы, то задавайте их в Slack канале `#de-module04-cohort1`
+
+Павел Новичков, ETL специалист, записал видео по установке Pentaho DI на примере Windows 10, с которым вы можете ознакомиться [здесь](https://www.youtube.com/watch?v=RL-EZCi51gc&feature=youtu.be&ab_channel=DataLearn)
+
+### ETL Компоненты и начало работы с ETL на примере Pentaho Data Integration
+
+ETL решения, требования и рекомендации, которые неплохо продумать перед началом создания data pipelines или data integration. 
+
+**Видео лекция - теория** - [ETL Компоненты](https://youtu.be/-oCBttnefMQ). 
+
+**Видео лекция - практика** - [Начало работы с Pentaho DI](https://youtu.be/-oCBttnefMQ?t=2087)
+
+[Видео по основам Pentaho DI](https://youtu.be/K3X9wIC0jO8) и [ссылка на исходные файлы из видео](https://drive.google.com/file/d/1yw0E7Gqm4Rocui_pQYPdfmmnFtGfx3LY/view?usp=sharing)
+
+### Домашняя работа 2
+В качестве практики вам необходимо:
+1. Скачать и запустить Pentaho DI, [отсюда](https://sourceforge.net/projects/pentaho/).
+2. [Скачать примеры Pentaho jobs](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module04/DE%20-%20101%20Lab%204.4) для `Staging` и `Dimension Tables`.
+3. Создайте еще одну трансформацию, в которой вы создадите `sales_fact` таблицу.
     
 - `lecture 04`:
     - [Marketing Analytics](lectures/)
