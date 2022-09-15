@@ -29,7 +29,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 03`: 
     - [Инструменты интеграции и удаление файлов (ETL)]()
 -  Practice: 
-    - 03 [Работа в ETL-системе Talend](practice/).
+    - 03 [Работа в ETL-системе Talend](/practice/ex_03/pr_03_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
     
 - `lecture 04`:
     - [Marketing Analytics](lectures/)
