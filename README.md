@@ -26,17 +26,22 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  01 [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization). [Индивидуальное задание](/practice/ex_01/01ex.md).
     -  02 [Product analytics](/practice/ex_02).
     
-- `lecture 03`:
-    - [Marketing Analytics](lectures/)
+- `lecture 03`: 
+    - [Инструменты интеграции и удаление файлов (ETL)]()
 -  Practice: 
-    - 03 [Marketing Analytics](practice/).
+    - 03 [Работа в ETL-системе Talend](practice/).
     
 - `lecture 04`:
+    - [Marketing Analytics](lectures/)
+-  Practice: 
+    - 04 [Marketing Analytics](practice/).
+    
+- `lecture 05`:
     - [Business Intelligence-аналитика](lectures/)
 -  Practice: 
-    - 04 [Business Intelligence-аналитика](practice/).
+    - 05 [Business Intelligence-аналитика](practice/).
     
-- `lecture 05-07`:
+- `lecture 06-07`:
     - [Инструменты аналитики](lectures/)
 -  Practice: 
     -  [data collection and storage](practice/).
