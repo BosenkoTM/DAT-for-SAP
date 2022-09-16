@@ -55,7 +55,7 @@ ETL решения, требования и рекомендации, котор
 - `lecture 04`:
     - [Marketing Analytics](lectures/)
 -  Practice: 
-    - 04 [Marketing Analytics](practice/).
+    - 04 [Marketing Analytics](/marketing_analytics_students.ipynb).
     
 - `lecture 05`:
     - [Business Intelligence-аналитика](lectures/)
