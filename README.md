@@ -118,11 +118,11 @@ ETL решения, требования и рекомендации, котор
 
 
 ## Conferences
-
-1. [`Х Международной научно-практической конференции «Культура, наука, образование: проблемы и перспективы»`](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx-1632889500549795.link.sendsay.ru%2Fx_1632889500549795%2F77%2C%3D0tueAMiOsCAIOnHTNbRh9sg%2F106%2C560546%2C165719%2C%3FaHR0cHM6Ly9jb25mZXJlbmNlcy5zY2llbmNlL2NvbmZlcmVuY2VzL2tzZS0yMDIyLmh0bWw%2FdXRtX3NvdXJjZT1lbWFpbDEmdXRtX21lZGl1bT1zYWZzJnV0bV9jYW1wYWlnbj0x&data=05%7C01%7Csadykovaar%40mgpu.ru%7C6eb96dcb0c1c4b433c3b08da935cf480%7Cc6e90d3c9e3c403a83f86b3e5acb68f1%7C0%7C1%7C637984324693620430%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&sdata=PP5cEpXO9%2FxMGod0KsV8g1C3bnWkojL8eK8IwOudptI%3D&reserved=0), которая пройдет 10 ноября 2022 г. в очно-дистанционном формате в Нижневартовском государственном университет (г. Нижневартовск, Россия). Прием заявок и регистрация участников осуществляются в срок до 27 октября 2022 г.
-2. [`12th Computer Science On-line Conference 2023`](https://csoc.openpublish.eu/). Paper Submission Deadline: December 20, 2022.
-3. Рецензируемый журнал [`«Экономика: вчера, сегодня, завтра»`](http://www.publishing-vak.ru/economy.htm).
-4. Рецензируемый журнал [`«Вестник МГПУ. Серия «Информатика и информатизация образования»`](https://dlt.mgpu.ru/).
+1. [`XXI конференция молодых исследователей образования  - МГПУ`](https://www.mgpu.ru/event/xxi-konferentsiya-molodyh-issledovatelej-obrazovaniya/).
+2. [`Х Международной научно-практической конференции «Культура, наука, образование: проблемы и перспективы»`](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx-1632889500549795.link.sendsay.ru%2Fx_1632889500549795%2F77%2C%3D0tueAMiOsCAIOnHTNbRh9sg%2F106%2C560546%2C165719%2C%3FaHR0cHM6Ly9jb25mZXJlbmNlcy5zY2llbmNlL2NvbmZlcmVuY2VzL2tzZS0yMDIyLmh0bWw%2FdXRtX3NvdXJjZT1lbWFpbDEmdXRtX21lZGl1bT1zYWZzJnV0bV9jYW1wYWlnbj0x&data=05%7C01%7Csadykovaar%40mgpu.ru%7C6eb96dcb0c1c4b433c3b08da935cf480%7Cc6e90d3c9e3c403a83f86b3e5acb68f1%7C0%7C1%7C637984324693620430%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&sdata=PP5cEpXO9%2FxMGod0KsV8g1C3bnWkojL8eK8IwOudptI%3D&reserved=0), которая пройдет 10 ноября 2022 г. в очно-дистанционном формате в Нижневартовском государственном университет (г. Нижневартовск, Россия). Прием заявок и регистрация участников осуществляются в срок до 27 октября 2022 г.
+3. [`12th Computer Science On-line Conference 2023`](https://csoc.openpublish.eu/). Paper Submission Deadline: December 20, 2022.
+4. Рецензируемый журнал [`«Экономика: вчера, сегодня, завтра»`](http://www.publishing-vak.ru/economy.htm).
+5. Рецензируемый журнал [`«Вестник МГПУ. Серия «Информатика и информатизация образования»`](https://dlt.mgpu.ru/).
 
 
 
