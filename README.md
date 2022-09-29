@@ -13,7 +13,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Текущая успеваемость
 
- [АДЭУ-211]()
+ [АДЭУ-211](https://docs.google.com/spreadsheets/d/1jSBjDeu23q6fdkR9OyvqIYbHeZpov9XTWNaDsHRcIF4/edit?usp=sharing)
 
 ## Data analytics tools for solving applied problems
 
@@ -32,7 +32,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 03`:
     - [Архитектура хранилищ данных: традиционная и облачная](/lectures/lecture_03.pdf)
 -  Practice: 
-    - 03 [Архитектура хранилищ данных: традиционная и облачная](/practice/ex_03/ex_3.pdf).
+    - 03 [Архитектура хранилищ данных: традиционная и облачная](/practice/ex_03/ex_3.pdf).  Pentaho DI требует установку Java 8. Попробуйте скачать архив и распаковать его. Вам нужно запустить spoon.sh для Linux/Mac и spoon.bat для Windows. Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
 
 ### Домашняя работа 1
 Вам необходимо скачать и запустить Pentaho Data Integration Community Edition. Это бесплатный ETL инструмент, который работает на Windows, Linux и Mac. Вы можете скачать его [отсюда](https://sourceforge.net/projects/pentaho/). Pentaho DI требует установку Java 8. Попробуйте скачать архив и распаковать его. Вам нужно запустить spoon.sh для Linux/Mac и spoon.bat для Windows. У меня на Mac есть, например, иконка, `Data integration`.
