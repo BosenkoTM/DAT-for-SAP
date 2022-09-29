@@ -19,17 +19,20 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `lecture 01` Intro:
     -  [Introduction to Data analytics](/lectures/lecture_01.pdf)
-
-- `lecture 02`:
-    - [Product analytics](https://youtu.be/Vy_rq-x9QEo)
+    -  [Product analytics](https://youtu.be/Vy_rq-x9QEo)
 -  Practice: 
-    -  01 [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization). [Индивидуальное задание](/practice/ex_01/01ex.md).
-    -  02 [Product analytics](/practice/ex_02).
+    -  01-1 [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization). [Индивидуальное задание](/practice/ex_01/01ex.md).
+    -  01-2 [Product analytics](/practice/ex_02).
     
-- `lecture 03`: 
-    - [Инструменты интеграции и удаление файлов (ETL)]()
+- `lecture 02`: 
+    - [Инструменты интеграции и удаление файлов (ETL)](/lectures/lecture_02.pdf)
 -  Practice: 
-    - 03 [Работа в ETL-системе Talend](/practice/ex_03/pr_03_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
+    - 02 [Работа в ETL-системе Talend](/practice/ex_03/pr_03_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
+    
+- `lecture 03`:
+    - [Архитектура хранилищ данных: традиционная и облачная](/lectures/lecture_03.pdf)
+-  Practice: 
+    - 03 [Архитектура хранилищ данных: традиционная и облачная](/practice/ex_03).
 
 ### Домашняя работа 1
 Вам необходимо скачать и запустить Pentaho Data Integration Community Edition. Это бесплатный ETL инструмент, который работает на Windows, Linux и Mac. Вы можете скачать его [отсюда](https://sourceforge.net/projects/pentaho/). Pentaho DI требует установку Java 8. Попробуйте скачать архив и распаковать его. Вам нужно запустить spoon.sh для Linux/Mac и spoon.bat для Windows. У меня на Mac есть, например, иконка, `Data integration`.
@@ -51,7 +54,7 @@ ETL решения, требования и рекомендации, котор
 1. Скачать и запустить Pentaho DI, [отсюда](https://sourceforge.net/projects/pentaho/).
 2. [Скачать примеры Pentaho jobs](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module04/DE%20-%20101%20Lab%204.4) для `Staging` и `Dimension Tables`.
 3. Создайте еще одну трансформацию, в которой вы создадите `sales_fact` таблицу.
-    
+
 - `lecture 04`:
     - [Marketing Analytics - кейсы](https://github.com/pilosI/python_data_analysis#%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-%D0%BF%D0%BE-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-jupyter-notebook)
 -  Practice: 
@@ -62,7 +65,7 @@ ETL решения, требования и рекомендации, котор
 -  Practice: 
     - 05 [Business Intelligence-аналитика](practice/).
     
-- `lecture 06-07`:
+- `lecture 06`:
     - [Инструменты аналитики](lectures/)
 -  Practice: 
     -  [data collection and storage](practice/).
