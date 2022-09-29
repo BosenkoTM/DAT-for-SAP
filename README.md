@@ -21,18 +21,18 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [Introduction to Data analytics](/lectures/lecture_01.pdf)
     -  [Product analytics](https://youtu.be/Vy_rq-x9QEo)
 -  Practice: 
-    -  01-1 [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization). [Индивидуальное задание](/practice/ex_01/01ex.md).
-    -  01-2 [Product analytics](/practice/ex_02).
+    -  01-1 [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization). [Индивидуальное задание](/practice/ex_01_1/01ex.md).
+    -  01-2 [Product analytics](/practice/ex_01_2).
     
 - `lecture 02`: 
     - [Инструменты интеграции и удаление файлов (ETL)](/lectures/lecture_02.pdf)
 -  Practice: 
-    - 02 [Работа в ETL-системе Talend](/practice/ex_03/pr_03_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
+    - 02 [Работа в ETL-системе Talend](/practice/ex_02/pr_02_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
     
 - `lecture 03`:
     - [Архитектура хранилищ данных: традиционная и облачная](/lectures/lecture_03.pdf)
 -  Practice: 
-    - 03 [Архитектура хранилищ данных: традиционная и облачная](/practice/ex_03).
+    - 03 [Архитектура хранилищ данных: традиционная и облачная](/practice/ex_03/ex_3.pdf).
 
 ### Домашняя работа 1
 Вам необходимо скачать и запустить Pentaho Data Integration Community Edition. Это бесплатный ETL инструмент, который работает на Windows, Linux и Mac. Вы можете скачать его [отсюда](https://sourceforge.net/projects/pentaho/). Pentaho DI требует установку Java 8. Попробуйте скачать архив и распаковать его. Вам нужно запустить spoon.sh для Linux/Mac и spoon.bat для Windows. У меня на Mac есть, например, иконка, `Data integration`.
