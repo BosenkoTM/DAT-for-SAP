@@ -61,9 +61,11 @@ ETL решения, требования и рекомендации, котор
     - 04 [Marketing Analytics](/marketing_analytics_students.ipynb).
     
 - `lecture 05`:
-    - [Business Intelligence-аналитика](lectures/)
+    - [Business Intelligence-аналитика Data Prep](lectures/)
 -  Practice: 
-    - 05 [Business Intelligence-аналитика](https://www.tableau.com/support/releases/prep/2022.2.3#esdalt). Репозиторий программы [тут]()
+    - 05 [Business Intelligence-аналитика Data Prep](https://www.tableau.com/support/releases/prep/2022.2.3#esdalt). Репозиторий программы [тут]()
+
+Необходимо построить `Tableau Prep Flow` или `Alteryx Workflow` и сохранить результат в своем `git`. Вы можете использовать данные, подключившись к БД `Postgres` или БД `My SQL`, в которую мы загружали данные. Альтернативно, можете просто повторить существующие задания из Alteryx/Tableau tutorial, чтобы понять как работает инструмент.
     
 - `lecture 06`:
     - [Инструменты аналитики](lectures/)
