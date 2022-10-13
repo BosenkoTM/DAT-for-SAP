@@ -64,9 +64,11 @@ ETL решения, требования и рекомендации, котор
     - [Business Intelligence-аналитика Data Prep](lectures/)
 -  Practice: 
     - 05 [Business Intelligence-аналитика Data Prep](https://www.tableau.com/support/releases/prep/2022.2.3#esdalt). Репозиторий программы [тут]()
+    
     Дополнительные материалы для изучения:
     
     [Начало работы с Tableau prep](https://help.tableau.com/current/prep/en-us/prep_get_started.htm)
+    
     [A-Practitioners-Guide-to-Tableau-prep-Builder](https://docs.yandex.ru/docs/view?tm=1665697499&tld=ru&lang=en&name=A-Practitioners-Guide-to-Tableau-prep-Builder.pdf&text=Tableau%20Prep&url=https%3A%2F%2Fresources.useready.com%2Fwp-content%2Fuploads%2F2019%2F08%2FA-Practitioners-Guide-to-Tableau-prep-Builder.pdf&lr=213&mime=pdf&l10n=ru&sign=6de6f2866532daf9d67052c949d1830f&keyno=0&nosw=1&serpParams=tm%3D1665697499%26tld%3Dru%26lang%3Den%26name%3DA-Practitioners-Guide-to-Tableau-prep-Builder.pdf%26text%3DTableau%2BPrep%26url%3Dhttps%253A%2F%2Fresources.useready.com%2Fwp-content%2Fuploads%2F2019%2F08%2FA-Practitioners-Guide-to-Tableau-prep-Builder.pdf%26lr%3D213%26mime%3Dpdf%26l10n%3Dru%26sign%3D6de6f2866532daf9d67052c949d1830f%26keyno%3D0%26nosw%3D1)
     
     [Начало работы с Alteryx Designer](https://help.alteryx.com/learn/learningguide.html)
