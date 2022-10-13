@@ -62,8 +62,9 @@ ETL решения, требования и рекомендации, котор
     
 - `lecture 05`:
     - [Business Intelligence-аналитика Data Prep & Alteryx Designer ](/lectures/lecture_05.pdf)
-    - 
--  Practice: 
+    
+-  Practice:
+ 
    05 : Необходимо построить в `Tableau Prep Flow`, `Alteryx Workflow`потоки данных и сохранить результат в своем `git`. Вы можете использовать данные, подключившись к БД `Postgres` или БД `My SQL`, в которую мы загружали данные. Альтернативно, можете просто повторить существующие задания из Alteryx/Tableau tutorial, чтобы понять как работает инструмент.
 
     [Видеолекция по инструментам аналитики данных](https://www.tableau.com/support/releases/prep/2022.2.3#esdalt). 
