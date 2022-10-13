@@ -63,7 +63,7 @@ ETL решения, требования и рекомендации, котор
 - `lecture 05`:
     - [Business Intelligence-аналитика](lectures/)
 -  Practice: 
-    - 05 [Business Intelligence-аналитика](practice/).
+    - 05 [Business Intelligence-аналитика](https://www.tableau.com/support/releases/prep/2022.2.3#esdalt). Репозиторий программы [тут]()
     
 - `lecture 06`:
     - [Инструменты аналитики](lectures/)
