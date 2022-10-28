@@ -80,11 +80,38 @@ ETL решения, требования и рекомендации, котор
     [Начало работы с Alteryx Designer](https://help.alteryx.com/learn/learningguide.html)
     
 - `lecture 06`:
-    - [Инструменты аналитики](lectures/)
+    - [Инструменты аналитики Airflow](lectures/)
 -  Practice: 
     -  [data collection and storage](practice/).
     -  [data analysis](practice/).
     -  [data visualization](practice/).
+
+### Дополнительные материалы для изучения
+
+#### Apache Airflow
+1. [Введение в Apache Airflow](https://khashtamov.com/ru/apache-airflow-introduction/) (Русский)
+2. [Как мы оркестрируем процессы обработки данных с помощью Apache Airflow](https://habr.com/ru/company/lamoda/blog/518620/) (Русский)
+3. [Apache Airflow: делаем ETL проще](https://habr.com/ru/post/512386/) (Русский)
+4. [ETL процесс получения данных из электронной почты в Apache Airflow](https://habr.com/ru/post/495676/) (Русский)
+5. [Getting started with Apache Airflow](https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b) (English)
+#### Apache NiFi
+1. [Apache NiFi: что это такое и краткий обзор возможностей](https://habr.com/ru/company/rostelecom/blog/432166/) (Русский)
+2. [Динамическое создание кластера Apache NiFi](https://habr.com/ru/post/331444/) (Русский)
+3. [Apache NIFI — Краткий обзор возможностей на практике](https://habr.com/ru/post/465299/) (Русский)
+4. [How Apache Nifi works — surf on your dataflow, don’t drown in it](https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2)
+5. [Побег от скуки — процессы ETL](https://habr.com/ru/post/508620/) (Русский)
+#### Data Build Tool (dbt) tool 
+1. [Data Build Tool или что общего между Хранилищем Данных и Смузи](https://habr.com/ru/company/otus/blog/501380/) (Русский)
+2. [DBT: A new way to transform data and build pipelines at The Telegraph](https://medium.com/the-telegraph-engineering/dbt-a-new-way-to-handle-data-transformation-at-the-telegraph-868ce3964eb4) (English)
+3. [What, exactly, is dbt?](https://blog.getdbt.com/what--exactly--is-dbt-/) (English)
+4. [Работа с dbt на базе Google BigQuery](https://habr.com/ru/post/542008/) (Русский)
+5. [Сквозная Аналитика на Azure SQL + dbt + Github Actions + Metabase](https://habr.com/ru/post/538106/) (Русский)
+
+#### Luigi
+1. [Строим Data Pipeline на Python и Luigi](https://khashtamov.com/ru/data-pipeline-luigi-python/) (Русский)
+2. [Обзор фреймворка Luigi для построения последовательностей выполнения задач](https://habr.com/ru/company/otus/blog/339904/) (Русский)
+3. [Airbnb’s Airflow Versus Spotify’s Luigi](https://medium.com/better-programming/airbnbs-airflow-versus-spotify-s-luigi-bd4c7c2c0791) (English)
+4. [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7) (English)
 
 
 ## Теоретические вопросы
