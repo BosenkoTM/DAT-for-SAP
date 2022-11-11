@@ -80,11 +80,14 @@ ETL решения, требования и рекомендации, котор
     [Начало работы с Alteryx Designer](https://help.alteryx.com/learn/learningguide.html)
     
 - `lecture 06`:
-    - [Инструменты аналитики Airflow](lectures/)
--  Practice: 
-    -  [data collection and storage](practice/).
-    -  [data analysis](practice/).
-    -  [data visualization](practice/).
+    - [Инструменты аналитики Airflow + task on lecture_06](/lectures/lecture_06_airflow_day_1.pdf)
+    
+-  Practice 06: 
+    -  [Live COVID-19 tracker with Airflow](https://towardsdatascience.com/your-live-covid-19-tracker-with-airflow-and-github-pages-658c3e048304).
+    -  [Live COVID-19 tracker with Airflow GITHUB](https://github.com/hectoramirez/Covid19)
+    
+- `lecture 07`:
+    - [Оркестр процессов обработки данных с помощью Apache Airflow](/lectures/lecture_07_airflow_day_2_orcestr.pdf)
 
 ### Дополнительные материалы для изучения
 
