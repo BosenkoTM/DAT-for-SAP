@@ -82,7 +82,7 @@ ETL решения, требования и рекомендации, котор
 - `lecture 06`:
     - [Инструменты аналитики Airflow + task on lecture_06](/lectures/lecture_06_airflow_day_1.pdf)
     
--  Practice 06: 
+-  `Practice 06`: 
     -  [Live COVID-19 tracker with Airflow](https://towardsdatascience.com/your-live-covid-19-tracker-with-airflow-and-github-pages-658c3e048304).
     -  [Live COVID-19 tracker with Airflow GITHUB](https://github.com/hectoramirez/Covid19)
     
