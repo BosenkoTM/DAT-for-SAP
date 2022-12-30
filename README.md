@@ -164,6 +164,7 @@ ETL решения, требования и рекомендации, котор
 3. [`12th Computer Science On-line Conference 2023`](https://csoc.openpublish.eu/). Paper Submission Deadline: December 20, 2022.
 4. Рецензируемый журнал [`«Экономика: вчера, сегодня, завтра»`](http://www.publishing-vak.ru/economy.htm).
 5. Рецензируемый журнал [`«Вестник МГПУ. Серия «Информатика и информатизация образования»`](https://dlt.mgpu.ru/).
+6. [XXV ВСЕРОССИЙСКАЯ СТУДЕНЧЕСКАЯ НАУЧНО-ПРАКТИЧЕСКАЯ КОНФЕРЕНЦИЯ НИЖНЕВАРТОВСКОГО ГОСУДАРСТВЕННОГО УНИВЕРСИТЕТА](https://konference.nvsu.ru/konf/383)
 
 
 
