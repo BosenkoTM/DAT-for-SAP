@@ -13,7 +13,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Текущая успеваемость
 
- [АДЭУ-211](https://docs.google.com/spreadsheets/d/1jSBjDeu23q6fdkR9OyvqIYbHeZpov9XTWNaDsHRcIF4/edit?usp=sharing)
+ [АДЭУ-221](https://docs.google.com/spreadsheets/d/1jSBjDeu23q6fdkR9OyvqIYbHeZpov9XTWNaDsHRcIF4/edit?usp=sharing)
 
 ## Data analytics tools for solving applied problems
 
