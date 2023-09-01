@@ -19,7 +19,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `lecture 01` Intro:
     -  [Introduction to Data analytics](/lectures/lecture_01.pdf)
+  
     -  [Product analytics](https://youtu.be/Vy_rq-x9QEo)
+     
 -  Practice: 
     -  01-1 [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization). [Индивидуальное задание](/practice/ex_01_1/01ex.md).
     -  01-2 [Product analytics](/practice/ex_01_2).
