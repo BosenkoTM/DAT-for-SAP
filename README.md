@@ -32,11 +32,13 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - [Инструменты интеграции и удаление файлов (ETL)](/lectures/lecture_02.pdf)
 -  Practice: 
     - 02 [Работа в ETL-системе Talend](/practice/ex_02/pr_02_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
+    - 02 Альтернативная работа [POLYMATICA BI В ОБЛАКЕ](https://partners.platform.polymatica.ru/auth?redirect=https%253A%252F%252Fpartners.platform.polymatica.ru%252F)
     
 - `lecture 03`:
     - [Архитектура хранилищ данных: традиционная и облачная](/lectures/lecture_03.pdf)
 -  Practice: 
     - 03 [Архитектура хранилищ данных: традиционная и облачная](/practice/ex_03/ex_3.pdf).  Pentaho DI требует установку Java 8. Попробуйте скачать архив и распаковать его. Вам нужно запустить spoon.sh для Linux/Mac и spoon.bat для Windows. Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
+  
 
 ### Домашняя работа 1
 Вам необходимо скачать и запустить Pentaho Data Integration Community Edition. Это бесплатный ETL инструмент, который работает на Windows, Linux и Mac. Вы можете скачать его [отсюда](https://sourceforge.net/projects/pentaho/). Pentaho DI требует установку Java 8. Попробуйте скачать архив и распаковать его. Вам нужно запустить spoon.sh для Linux/Mac и spoon.bat для Windows. У меня на Mac есть, например, иконка, `Data integration`.
