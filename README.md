@@ -36,7 +36,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - `02Ru`  [POLYMATICA BI В ОБЛАКЕ](https://partners.platform.polymatica.ru/auth?redirect=https%253A%252F%252Fpartners.platform.polymatica.ru%252F)
     -  **02-1** [Polymatica Dashboards: загрузка данных из файла и работа с датасетом](https://www.youtube.com/watch?v=83iCC4unHsE&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=2);
     - **02-2** [Polymatica Dashboards: cоздание источника](https://www.youtube.com/watch?v=BrIqTrhBs84&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=3);
-    - **02-3** [Polymatica Dashboards: cоздание источника](https://www.youtube.com/watch?v=BrIqTrhBs84&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=3);
+    - **02-3** [Polymatica Dashboards: загрузка датасета из источника](https://www.youtube.com/watch?v=vth0efKfzyA&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=4);
     - **02-4** [Polymatica Dashboards: настройка фильтров](https://www.youtube.com/watch?v=Q9tC6PsyvmQ&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=6);
     - **02-5** [Polymatica Dashboards: объединение датасетов](https://www.youtube.com/watch?v=3MNmzGKcRKM&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=9).
     
