@@ -85,7 +85,9 @@ ETL решения, требования и рекомендации, котор
     
     Дополнительные материалы для изучения:
 
-    - [Tableau Prep Help](https://disk.yandex.ru/d/BjbXWdqjH0jzyA);
+    - [2023 Tableau Prep Help](https://disk.yandex.ru/d/BjbXWdqjH0jzyA);
+ 
+    - Carl Allchin [ 2020 Tableau Prep: Up & Running](https://disk.yandex.ru/i/Qpjx0mtLurwkcw);
       
     - [Начало работы с Tableau prep](https://help.tableau.com/current/prep/en-us/prep_get_started.htm)
     
