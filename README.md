@@ -24,13 +24,13 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
   
     -  [Product analytics](https://youtu.be/Vy_rq-x9QEo)
      
--  Practice: 
+-  `Practice 01`: 
     -  01-1 [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization). [Индивидуальное задание](/practice/ex_01_1/01ex.md).
     -  01-2 [Product analytics](/practice/ex_01_2).
     
 - `lecture 02`: 
     - [Инструменты интеграции и удаление файлов (ETL)](/lectures/lecture_02.pdf)
--  Practice: 
+- `Practice 02`: 
     - `02En` [Работа в ETL-системе Talend](/practice/ex_02/pr_02_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
   
     - `02Ru`  [POLYMATICA BI В ОБЛАКЕ](https://partners.platform.polymatica.ru/auth?redirect=https%253A%252F%252Fpartners.platform.polymatica.ru%252F)
@@ -42,7 +42,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     
 - `lecture 03`:
     - [Архитектура хранилищ данных: традиционная и облачная](/lectures/lecture_03.pdf)
--  Practice: 
+-  `Practice 03`: 
     - 03 [Архитектура хранилищ данных: традиционная и облачная](/practice/ex_03/ex_3.pdf).
     -  Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
     - Вам необходимо скачать и запустить Pentaho Data Integration Community Edition [скачать](https://sourceforge.net/projects/pentaho/).
@@ -50,32 +50,34 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - Скачать архив и распаковать его. Вам нужно запустить `spoon.sh` для Linux/Mac и `spoon.bat` для Windows.
     -  Установка `Pentaho DI` на примере Windows 10  [здесь](https://www.youtube.com/watch?v=RL-EZCi51gc&feature=youtu.be&ab_channel=DataLearn)
 
-### Самостоятельная работа 1
-В качестве практики вам необходимо:
+#### Самостоятельная работа 1
 1. Скачать и запустить Pentaho DI, [отсюда](https://sourceforge.net/projects/pentaho/).
 2. [Скачать примеры Pentaho jobs](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module04/DE%20-%20101%20Lab%204.4) для `Staging` и `Dimension Tables`.
 3. Создайте еще одну трансформацию, в которой вы создадите `sales_fact` таблицу.
 
 - `lecture 04`:
     - [Marketing Analytics - кейсы](https://github.com/pilosI/python_data_analysis#%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-%D0%BF%D0%BE-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-jupyter-notebook)
--  Practice: 
+- `Practice04`: 
     - 04-01 [Marketing Analytics](/marketing_analytics_students.ipynb).
     - 04-02 [Marketing Analytics vs MySQL](https://colab.research.google.com/drive/1ZFauMnc7JSRUGDEdor0EC6BAUe_YGVwt?usp=sharing).
     
 - `lecture 05`:
     - [Business Intelligence-аналитика Data Prep & Alteryx Designer ](/lectures/lecture_05.pdf)
     
--  Practice:
- 
-   05 : Необходимо построить в `Tableau Prep Flow`, `Alteryx Workflow`потоки данных ([скачать данные](/data)) и сохранить результат в своем `git`. Вы можете использовать данные, подключившись к БД `Postgres` или БД `My SQL`, в которую мы загружали данные. Альтернативно, можете просто повторить существующие задания из Alteryx/Tableau tutorial, чтобы понять как работает инструмент.
+- `Practice 05`:
+   Необходимо построить в `Tableau Prep Flow`, `Alteryx Workflow`потоки данных ([скачать данные](/data)) и сохранить результат в своем `git`. Вы можете использовать данные, подключившись к БД `Postgres` или БД `My SQL`, в которую мы загружали данные. Альтернативно, можете просто повторить существующие задания из Alteryx/Tableau tutorial, чтобы понять как работает инструмент.
 
     [Видеолекция по инструментам аналитики данных](https://www.tableau.com/support/releases/prep/2022.2.3#esdalt). 
     Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
-    
+
 - `lecture 06`:
+   - [Python инструменты аналитика данных]();
+- `Practice 06`:    
+    
+- `lecture 07`:
     - [Инструменты аналитики Airflow + task on lecture_06](/lectures/lecture_06_airflow_day_1.pdf)
     
--  `Practice 06`: 
+- `Practice 07`: 
     -  [Live COVID-19 tracker with Airflow](https://towardsdatascience.com/your-live-covid-19-tracker-with-airflow-and-github-pages-658c3e048304).
     -  [Live COVID-19 tracker with Airflow GITHUB](https://github.com/hectoramirez/Covid19)
     
