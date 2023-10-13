@@ -72,17 +72,6 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     [Видеолекция по инструментам аналитики данных](https://www.tableau.com/support/releases/prep/2022.2.3#esdalt). 
     Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
     
-    Дополнительные материалы для изучения:
-    - [2023 Начало работы с Tableau prep](https://help.tableau.com/current/prep/en-us/prep_get_started.htm);
-      
-    - [2023 Tableau Prep Help](https://disk.yandex.ru/d/BjbXWdqjH0jzyA);
- 
-    - Carl Allchin [ 2020 Tableau Prep: Up & Running](https://disk.yandex.ru/i/Qpjx0mtLurwkcw);
-    
-    - [2019 A-Practitioners-Guide-to-Tableau-prep-Builder](https://docs.yandex.ru/docs/view?tm=1665697499&tld=ru&lang=en&name=A-Practitioners-Guide-to-Tableau-prep-Builder.pdf&text=Tableau%20Prep&url=https%3A%2F%2Fresources.useready.com%2Fwp-content%2Fuploads%2F2019%2F08%2FA-Practitioners-Guide-to-Tableau-prep-Builder.pdf&lr=213&mime=pdf&l10n=ru&sign=6de6f2866532daf9d67052c949d1830f&keyno=0&nosw=1&serpParams=tm%3D1665697499%26tld%3Dru%26lang%3Den%26name%3DA-Practitioners-Guide-to-Tableau-prep-Builder.pdf%26text%3DTableau%2BPrep%26url%3Dhttps%253A%2F%2Fresources.useready.com%2Fwp-content%2Fuploads%2F2019%2F08%2FA-Practitioners-Guide-to-Tableau-prep-Builder.pdf%26lr%3D213%26mime%3Dpdf%26l10n%3Dru%26sign%3D6de6f2866532daf9d67052c949d1830f%26keyno%3D0%26nosw%3D1).
-    
-    - [Начало работы с Alteryx Designer](https://help.alteryx.com/learn/learningguide.html).
-    
 - `lecture 06`:
     - [Инструменты аналитики Airflow + task on lecture_06](/lectures/lecture_06_airflow_day_1.pdf)
     
@@ -95,12 +84,15 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ### Дополнительные материалы для изучения
 #### ETL Компоненты и начало работы с ETL на примере Pentaho Data Integration
-
-Видео лекция - теория - [ETL Компоненты](https://youtu.be/-oCBttnefMQ). 
-
-Видео лекция - практика - [Начало работы с Pentaho DI](https://youtu.be/-oCBttnefMQ?t=2087)
-
-[Видео по основам Pentaho DI](https://youtu.be/K3X9wIC0jO8) и [ссылка на исходные файлы из видео](https://drive.google.com/file/d/1yw0E7Gqm4Rocui_pQYPdfmmnFtGfx3LY/view?usp=sharing)
+1. Видео лекция - теория - [ETL Компоненты](https://youtu.be/-oCBttnefMQ). 
+2. Видео лекция - практика - [Начало работы с Pentaho DI](https://youtu.be/-oCBttnefMQ?t=2087)
+3. [Видео по основам Pentaho DI](https://youtu.be/K3X9wIC0jO8) и [ссылка на исходные файлы из видео](https://drive.google.com/file/d/1yw0E7Gqm4Rocui_pQYPdfmmnFtGfx3LY/view?usp=sharing)
+#### Tableau prep
+1. [2023 Начало работы с Tableau prep](https://help.tableau.com/current/prep/en-us/prep_get_started.htm);
+2. [2023 Tableau Prep Help](https://disk.yandex.ru/d/BjbXWdqjH0jzyA);
+3. Carl Allchin [ 2020 Tableau Prep: Up & Running](https://disk.yandex.ru/i/Qpjx0mtLurwkcw);
+4. [2019 A-Practitioners-Guide-to-Tableau-prep-Builder](https://docs.yandex.ru/docs/view?tm=1665697499&tld=ru&lang=en&name=A-Practitioners-Guide-to-Tableau-prep-Builder.pdf&text=Tableau%20Prep&url=https%3A%2F%2Fresources.useready.com%2Fwp-content%2Fuploads%2F2019%2F08%2FA-Practitioners-Guide-to-Tableau-prep-Builder.pdf&lr=213&mime=pdf&l10n=ru&sign=6de6f2866532daf9d67052c949d1830f&keyno=0&nosw=1&serpParams=tm%3D1665697499%26tld%3Dru%26lang%3Den%26name%3DA-Practitioners-Guide-to-Tableau-prep-Builder.pdf%26text%3DTableau%2BPrep%26url%3Dhttps%253A%2F%2Fresources.useready.com%2Fwp-content%2Fuploads%2F2019%2F08%2FA-Practitioners-Guide-to-Tableau-prep-Builder.pdf%26lr%3D213%26mime%3Dpdf%26l10n%3Dru%26sign%3D6de6f2866532daf9d67052c949d1830f%26keyno%3D0%26nosw%3D1).
+5. [Начало работы с Alteryx Designer](https://help.alteryx.com/learn/learningguide.html).
 #### Apache Airflow
 1. [Введение в Apache Airflow](https://khashtamov.com/ru/apache-airflow-introduction/) (Русский)
 2. [Как мы оркестрируем процессы обработки данных с помощью Apache Airflow](https://habr.com/ru/company/lamoda/blog/518620/) (Русский)
