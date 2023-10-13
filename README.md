@@ -73,7 +73,12 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `lecture 06`:
    - [Python инструменты аналитика данных]();
 - `Practice 06`:    
-    
+    -  **06-1** [Начало работы с API]();
+    -  **06-2**
+    -  **06-3**
+    -  **06-4**
+    - **06-6**
+
 - `lecture 07`:
     - [Инструменты аналитики Airflow + task on lecture_06](/lectures/lecture_06_airflow_day_1.pdf)
     
@@ -81,7 +86,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [Live COVID-19 tracker with Airflow](https://towardsdatascience.com/your-live-covid-19-tracker-with-airflow-and-github-pages-658c3e048304).
     -  [Live COVID-19 tracker with Airflow GITHUB](https://github.com/hectoramirez/Covid19)
     
-- `lecture 07`:
+- `lecture 08`:
     - [Оркестр процессов обработки данных с помощью Apache Airflow](/lectures/lecture_07_airflow_day_2_orcestr.pdf)
 
 ### Дополнительные материалы для изучения
