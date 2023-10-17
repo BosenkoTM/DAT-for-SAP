@@ -34,12 +34,23 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - `02En` [Работа в ETL-системе Talend](/practice/ex_02/pr_02_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
   
     - `02Ru`  [POLYMATICA BI В ОБЛАКЕ](https://partners.platform.polymatica.ru/auth?redirect=https%253A%252F%252Fpartners.platform.polymatica.ru%252F)
-    -  **02-1** [Polymatica Dashboards: загрузка данных из файла и работа с датасетом](https://www.youtube.com/watch?v=83iCC4unHsE&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=2);
+    - **02-1** [Polymatica Dashboards: загрузка данных из файла и работа с датасетом](https://www.youtube.com/watch?v=83iCC4unHsE&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=2);
     - **02-2** [Polymatica Dashboards: cоздание источника](https://www.youtube.com/watch?v=BrIqTrhBs84&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=3);
     - **02-3** [Polymatica Dashboards: загрузка датасета из источника](https://www.youtube.com/watch?v=vth0efKfzyA&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=4);
     - **02-4** [Polymatica Dashboards: настройка фильтров](https://www.youtube.com/watch?v=Q9tC6PsyvmQ&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=6);
     - **02-5** [Polymatica Dashboards: объединение датасетов](https://www.youtube.com/watch?v=3MNmzGKcRKM&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=9).
-    
+ 
+    - `02Ru` [Polymatica Analytics в облаке](https://edu.polymatica.ru/) 
+    - **02-6**  [Data Discovery](https://www.youtube.com/watch?v=jvC9JCwzE1k&list=PLjiEjSNywDXtPIzamGezulnIBna-2rvWg).
+    - **02-7**  [Create MultiSphere](https://www.youtube.com/watch?v=3g90WWCxXms&list=PLjiEjSNywDXtPIzamGezulnIBna-2rvWg&index=2).
+    - **02-8**  [Основные операции с размерностями и фактами](https://www.youtube.com/watch?v=5AzJQJO8kzs).
+    - **02-9**  [Фильтрация и группировка элементов размерности](https://www.youtube.com/watch?v=r7U9fP0NPQw).
+    - **02-10** [Простые виды фактов и расчёт по горизонтали](https://www.youtube.com/watch?v=FrSxMpLghOM).
+    - **02-11** [Сложные виды фактов и уровни расчёта фактов](https://www.youtube.com/watch?v=YULpIqfeNp4).
+    - **02-12** [Вычислимый факт и выборка](https://www.youtube.com/watch?v=LeT85F7X1pM).
+    - **02-13** [Визуализация: Графики. Часть 1](https://www.youtube.com/watch?v=UCywumvP5lM&t=47s).
+    - **02-14** [Визуализация: Графики. Часть 2](https://www.youtube.com/watch?v=jLkuQGAHn1M).
+
 - `lecture 03`:
     - [Архитектура хранилищ данных: традиционная и облачная](/lectures/lecture_03.pdf)
 -  `Practice 03`: 
