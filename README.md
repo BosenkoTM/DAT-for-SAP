@@ -33,7 +33,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `Practice 02`: 
     - `02En` [Работа в ETL-системе Talend](/practice/ex_02/pr_02_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
   
-    - `02Ru`  [POLYMATICA BI В ОБЛАКЕ](https://partners.platform.polymatica.ru/auth?redirect=https%253A%252F%252Fpartners.platform.polymatica.ru%252F)
+  `02Ru`  [POLYMATICA BI В ОБЛАКЕ](https://partners.platform.polymatica.ru/auth?redirect=https%253A%252F%252Fpartners.platform.polymatica.ru%252F)
       
     - **02-1** [Polymatica Dashboards: загрузка данных из файла и работа с датасетом](https://www.youtube.com/watch?v=83iCC4unHsE&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=2);
     - **02-2** [Polymatica Dashboards: cоздание источника](https://www.youtube.com/watch?v=BrIqTrhBs84&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=3);
@@ -41,7 +41,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - **02-4** [Polymatica Dashboards: настройка фильтров](https://www.youtube.com/watch?v=Q9tC6PsyvmQ&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=6);
     - **02-5** [Polymatica Dashboards: объединение датасетов](https://www.youtube.com/watch?v=3MNmzGKcRKM&list=PLjiEjSNywDXuZgIgd6PjlIbLkXGiqlP2k&index=9).
  
-    - `02Ru` [Polymatica Analytics в облаке](https://edu.polymatica.ru/)
+  `02Ru` [Polymatica Analytics в облаке](https://edu.polymatica.ru/)
       
     - **02-6**  [Data Discovery](https://www.youtube.com/watch?v=jvC9JCwzE1k&list=PLjiEjSNywDXtPIzamGezulnIBna-2rvWg).
     - **02-7**  [Create MultiSphere](https://www.youtube.com/watch?v=3g90WWCxXms&list=PLjiEjSNywDXtPIzamGezulnIBna-2rvWg&index=2).
