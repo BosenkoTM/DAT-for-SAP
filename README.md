@@ -43,7 +43,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
  
   `02Ru` [Polymatica Analytics в облаке](https://edu.polymatica.ru/)
       
-    - **02-6**  [Data Discovery](https://www.youtube.com/watch?v=jvC9JCwzE1k&list=PLjiEjSNywDXtPIzamGezulnIBna-2rvWg).
+    - **02-6**  [Короткий обзор Polymatica Analytics](https://www.youtube.com/watch?v=5aV5t4XeJfQ).
     - **02-7**  [Create MultiSphere](https://www.youtube.com/watch?v=3g90WWCxXms&list=PLjiEjSNywDXtPIzamGezulnIBna-2rvWg&index=2).
     - **02-8**  [Основные операции с размерностями и фактами](https://www.youtube.com/watch?v=5AzJQJO8kzs).
     - **02-9**  [Фильтрация и группировка элементов размерности](https://www.youtube.com/watch?v=r7U9fP0NPQw).
