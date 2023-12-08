@@ -98,6 +98,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - [Оркестр процессов обработки данных с помощью Apache Airflow](/lectures/lecture_07_airflow_day_2_orcestr.pdf)
 
 ### Дополнительные материалы для изучения
+
+<details>
+<summary> Материалы по разделам</summary>
+ 
 #### ETL Компоненты и начало работы с ETL на примере Pentaho Data Integration
 1. Видео лекция - теория - [ETL Компоненты](https://youtu.be/-oCBttnefMQ). 
 2. Видео лекция - практика - [Начало работы с Pentaho DI](https://youtu.be/-oCBttnefMQ?t=2087)
@@ -133,7 +137,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 3. [Airbnb’s Airflow Versus Spotify’s Luigi](https://medium.com/better-programming/airbnbs-airflow-versus-spotify-s-luigi-bd4c7c2c0791) (English)
 4. [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7) (English)
 
-
+</details>
+ 
 ## Теоретические вопросы
 
 1.	Виды аналитики данных. Сравнительный анализ.
