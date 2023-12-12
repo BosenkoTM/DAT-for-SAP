@@ -41,9 +41,12 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
   - 01-2 [Product analytics](/practice/ex_01_2).
  </details>
  
-- `lecture 02`: 
+- `lecture 02` Инструменты интеграции : 
     - [Инструменты интеграции и удаление файлов (ETL)](/lectures/lecture_02.pdf)
-- `Practice 02`: 
+- `Practice 02` Инструменты интеграции:
+<details>
+<summary> Инструменты интеграции </summary>
+  
     - `02En` [Работа в ETL-системе Talend](/practice/ex_02/pr_02_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
   
   `02Ru`  [POLYMATICA BI В ОБЛАКЕ](https://partners.platform.polymatica.ru/auth?redirect=https%253A%252F%252Fpartners.platform.polymatica.ru%252F)
@@ -60,7 +63,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - **02-7**  [Основные операции с размерностями и фактами](https://www.youtube.com/watch?v=5AzJQJO8kzs).
     - **02-08** [Визуализация: Графики. Часть 1](https://www.youtube.com/watch?v=UCywumvP5lM&t=47s).
     - **02-09** [Визуализация: Графики. Часть 2](https://www.youtube.com/watch?v=jLkuQGAHn1M).
-
+</details>
 - `lecture 03`:
     - [Архитектура хранилищ данных: традиционная и облачная](/lectures/lecture_03.pdf)
 -  `Practice 03`: 
