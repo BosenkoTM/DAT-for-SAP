@@ -7,11 +7,14 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 **`ВАЖНО!`** Для работы с `jupyter` ноутбуками предварительно необходимо пройти курс [python-data-analysis-tools](https://github.com/BosenkoTM/PDA).
 
-## Программное обеспечение 
+<details>
+<summary> Программное обеспечение </summary>
 
  - **`Google Colaboratory`** — бесплатная среда, чтобы писать код в jupyter notebook. [Google Colaboratory](  https://colab.research.google.com/).
  - **`Студия данных Google`** — cервис визуализации и анализа данных(En). [DataStudio](https://datastudio.google.com/navigation/reporting).
  - **`Yandex DataLens`** — cервис визуализации и анализа данных(Ru). [DataLens](https://datalens.yandex.ru/).
+
+</details>
 
 ## Текущая успеваемость
 
