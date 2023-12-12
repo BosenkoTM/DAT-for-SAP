@@ -36,8 +36,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 -  `Practice 01`: 
  <details>
 <summary> Intro </summary>
-    -  01-1 [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization). [Индивидуальное задание](/practice/ex_01_1/01ex.md).
-    -  01-2 [Product analytics](/practice/ex_01_2).
+
+  - 01-1 [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization). [Индивидуальное задание](/practice/ex_01_1/01ex.md).
+  - 01-2 [Product analytics](/practice/ex_01_2).
  </details>
  
 - `lecture 02`: 
