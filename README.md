@@ -81,6 +81,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
  - Скачать архив и распаковать его. Вам нужно запустить `spoon.sh` для Linux/Mac и `spoon.bat` для Windows.
  - Установка `Pentaho DI` на примере Windows 10  [здесь](https://www.youtube.com/watch?v=RL-EZCi51gc&feature=youtu.be&ab_channel=DataLearn)
 </details>
+
 #### Самостоятельная работа 1
 1. Скачать и запустить Pentaho DI, [отсюда](https://sourceforge.net/projects/pentaho/).
 2. [Скачать примеры Pentaho jobs](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module04/DE%20-%20101%20Lab%204.4) для `Staging` и `Dimension Tables`.
