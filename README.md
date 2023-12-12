@@ -74,12 +74,12 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 <details>
 <summary> Архитектура хранилищ данных </summary>
 
-    - 03 [Архитектура хранилищ данных: традиционная и облачная](/practice/ex_03/ex_3.pdf).
-    - Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
-    - Вам необходимо скачать и запустить Pentaho Data Integration Community Edition [скачать](https://sourceforge.net/projects/pentaho/).
-    - Pentaho DI требует установку Java 8.
-    - Скачать архив и распаковать его. Вам нужно запустить `spoon.sh` для Linux/Mac и `spoon.bat` для Windows.
-    - Установка `Pentaho DI` на примере Windows 10  [здесь](https://www.youtube.com/watch?v=RL-EZCi51gc&feature=youtu.be&ab_channel=DataLearn)
+ - 03 [Архитектура хранилищ данных: традиционная и облачная](/practice/ex_03/ex_3.pdf).
+ - Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
+ - Вам необходимо скачать и запустить Pentaho Data Integration Community Edition [скачать](https://sourceforge.net/projects/pentaho/).
+ - Pentaho DI требует установку Java 8.
+ - Скачать архив и распаковать его. Вам нужно запустить `spoon.sh` для Linux/Mac и `spoon.bat` для Windows.
+ - Установка `Pentaho DI` на примере Windows 10  [здесь](https://www.youtube.com/watch?v=RL-EZCi51gc&feature=youtu.be&ab_channel=DataLearn)
 </details>
 #### Самостоятельная работа 1
 1. Скачать и запустить Pentaho DI, [отсюда](https://sourceforge.net/projects/pentaho/).
