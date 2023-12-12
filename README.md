@@ -97,6 +97,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - [Business Intelligence-аналитика Data Prep & Alteryx Designer ](/lectures/lecture_05.pdf)
     
 - `Practice 05`:
+  
    Необходимо построить в `Tableau Prep Flow`, `Alteryx Workflow`потоки данных ([скачать данные](/data)) и сохранить результат в своем `git`. Вы можете использовать данные, подключившись к БД `Postgres` или БД `My SQL`, в которую мы загружали данные. Альтернативно, можете просто повторить существующие задания из Alteryx/Tableau tutorial, чтобы понять как работает инструмент.
 
     [Видеолекция по инструментам аналитики данных](https://www.tableau.com/support/releases/prep/2022.2.3#esdalt). 
@@ -107,16 +108,6 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `Practice 06`:    
     -  **06-1** [Начало работы с API](/practice/06/06_1.md);
     -  **06-2**
-
-- `lecture 07`:
-    - [Инструменты аналитики Airflow + task on lecture_06](/lectures/lecture_06_airflow_day_1.pdf)
-    
-- `Practice 07`: 
-    -  [Live COVID-19 tracker with Airflow](https://towardsdatascience.com/your-live-covid-19-tracker-with-airflow-and-github-pages-658c3e048304).
-    -  [Live COVID-19 tracker with Airflow GITHUB](https://github.com/hectoramirez/Covid19)
-    
-- `lecture 08`:
-    - [Оркестр процессов обработки данных с помощью Apache Airflow](/lectures/lecture_07_airflow_day_2_orcestr.pdf)
 
 ### Дополнительные материалы для изучения
 
