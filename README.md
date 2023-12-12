@@ -23,10 +23,12 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## Data analytics tools for solving applied problems
 
 - `lecture 01` :
+
 <details>
 <summary> Intro </summary>
 
  - [Introduction to Data analytics](/lectures/lecture_01.pdf)
+
  - [Product analytics](https://youtu.be/Vy_rq-x9QEo)
     
 </details>
