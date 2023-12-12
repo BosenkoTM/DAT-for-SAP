@@ -22,15 +22,23 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Data analytics tools for solving applied problems
 
-- `lecture 01` Intro:
+- `lecture 01` :
+<details>
+<summary> Intro </summary>
+
     -  [Introduction to Data analytics](/lectures/lecture_01.pdf)
   
     -  [Product analytics](https://youtu.be/Vy_rq-x9QEo)
-     
+    
+</details>
+
 -  `Practice 01`: 
+ <details>
+<summary> Intro </summary>
     -  01-1 [Визуализация данных из CSV-файла](https://cloud.yandex.ru/docs/datalens/tutorials/data-from-csv-visualization). [Индивидуальное задание](/practice/ex_01_1/01ex.md).
     -  01-2 [Product analytics](/practice/ex_01_2).
-    
+ </details>
+ 
 - `lecture 02`: 
     - [Инструменты интеграции и удаление файлов (ETL)](/lectures/lecture_02.pdf)
 - `Practice 02`: 
