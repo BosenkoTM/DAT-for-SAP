@@ -45,10 +45,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - [Инструменты интеграции и удаление файлов (ETL)](/lectures/lecture_02.pdf)
 - `Practice 02` Инструменты интеграции:
 
+- `02En` [Работа в ETL-системе Talend](/practice/ex_02/pr_02_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
+- 
 <details>
 <summary> Инструменты интеграции </summary>
- 
- - `02En` [Работа в ETL-системе Talend](/practice/ex_02/pr_02_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
   
  `02Ru`  [POLYMATICA BI В ОБЛАКЕ](https://partners.platform.polymatica.ru/auth?redirect=https%253A%252F%252Fpartners.platform.polymatica.ru%252F)
  
@@ -60,8 +60,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
  
   `02Ru` [Polymatica Analytics в облаке](https://edu.polymatica.ru/)
 
-  - **02-6**  [Обзор Polymatica Analytics](https://www.youtube.com/watch?v=5aV5t4XeJfQ).
-  - **02-7**  [Основные операции с размерностями и фактами](https://www.youtube.com/watch?v=5AzJQJO8kzs).
+  - **02-6** [Обзор Polymatica Analytics](https://www.youtube.com/watch?v=5aV5t4XeJfQ).
+  - **02-7** [Основные операции с размерностями и фактами](https://www.youtube.com/watch?v=5AzJQJO8kzs).
   - **02-08** [Визуализация: Графики. Часть 1](https://www.youtube.com/watch?v=UCywumvP5lM&t=47s).
   - **02-09** [Визуализация: Графики. Часть 2](https://www.youtube.com/watch?v=jLkuQGAHn1M).
       
