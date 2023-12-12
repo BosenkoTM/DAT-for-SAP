@@ -83,9 +83,6 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `Practice 06`:    
     -  **06-1** [Начало работы с API](/practice/06/06_1.md);
     -  **06-2**
-    -  **06-3**
-    -  **06-4**
-    - **06-6**
 
 - `lecture 07`:
     - [Инструменты аналитики Airflow + task on lecture_06](/lectures/lecture_06_airflow_day_1.pdf)
