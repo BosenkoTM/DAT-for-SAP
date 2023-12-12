@@ -46,9 +46,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `Practice 02` Инструменты интеграции:
 
 - `02En` [Работа в ETL-системе Talend](/practice/ex_02/pr_02_read_fileCSV_talend.pdf). Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
-- 
+
 <details>
-<summary> Инструменты интеграции </summary>
+<summary> Инструменты интеграции В ОБЛАКЕ </summary>
   
  `02Ru`  [POLYMATICA BI В ОБЛАКЕ](https://partners.platform.polymatica.ru/auth?redirect=https%253A%252F%252Fpartners.platform.polymatica.ru%252F)
  
