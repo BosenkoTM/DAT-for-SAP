@@ -69,14 +69,18 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `lecture 03`:
     - [Архитектура хранилищ данных: традиционная и облачная](/lectures/lecture_03.pdf)
--  `Practice 03`: 
+-  `Practice 03`:
+
+<details>
+<summary> Архитектура хранилищ данных </summary>
+
     - 03 [Архитектура хранилищ данных: традиционная и облачная](/practice/ex_03/ex_3.pdf).
-    -  Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
+    - Репозиторий программы [тут](https://disk.yandex.ru/d/jELYUXeI9HEEmg)
     - Вам необходимо скачать и запустить Pentaho Data Integration Community Edition [скачать](https://sourceforge.net/projects/pentaho/).
     - Pentaho DI требует установку Java 8.
     - Скачать архив и распаковать его. Вам нужно запустить `spoon.sh` для Linux/Mac и `spoon.bat` для Windows.
-    -  Установка `Pentaho DI` на примере Windows 10  [здесь](https://www.youtube.com/watch?v=RL-EZCi51gc&feature=youtu.be&ab_channel=DataLearn)
-
+    - Установка `Pentaho DI` на примере Windows 10  [здесь](https://www.youtube.com/watch?v=RL-EZCi51gc&feature=youtu.be&ab_channel=DataLearn)
+</details>
 #### Самостоятельная работа 1
 1. Скачать и запустить Pentaho DI, [отсюда](https://sourceforge.net/projects/pentaho/).
 2. [Скачать примеры Pentaho jobs](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module04/DE%20-%20101%20Lab%204.4) для `Staging` и `Dimension Tables`.
