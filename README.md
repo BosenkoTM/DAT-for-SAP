@@ -111,7 +111,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    - [Python инструменты аналитика данных]();
 - `Practice 06`:    
     -  **06-1** [Начало работы с API](/practice/06/06_1.md);
-    -  **06-2**
+    -  **06-2** Основы описательного анализа данных(выполнить задание по материалам [лекции](https://github.com/BosenkoTM/DAT-for-SAP/blob/main/lectures/Lecture%20Fundamentals%20of%20descriptive%20data%20analysi.pdf));
 
 ### Дополнительные материалы для изучения
 
