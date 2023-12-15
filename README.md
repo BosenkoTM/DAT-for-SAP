@@ -174,9 +174,3 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 15.	Визуализация данных.
 16.	Программное обеспечение для визуализации и информационной панели.
 
-
-## Summary table of literature sources
-Разделы | 👨‍🏫 Курсы | 📚 Книги | 📊 Данные | 🙋‍♂️ Посты | ✊ Софт
---- | --- | --- | --- | --- | ---
-Data Analyst with Python | [Data Analyst](https://github.com/elmoallistair/datacamp-data-analyst-with-python) | [Книги по Data Analyst](https://practicum.yandex.ru/blog/top-knig-po-analitike/) | + | [Источники ](books/social_data_science.md) | [Программы и библиотеки ](https://habr.com/ru/post/542718/)
-
