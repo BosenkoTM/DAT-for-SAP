@@ -174,8 +174,6 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 15.	Визуализация данных.
 16.	Программное обеспечение для визуализации и информационной панели.
 
-## ТЕСТ 1. Зачетное тестирование. 
-[ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLSd0hfJDgqL1pNQE_np1S0V1_FVY7h_1Dvki7b_yimaj4Fnb8A/viewform?usp=sf_link)
 
 ## Summary table of literature sources
 Разделы | 👨‍🏫 Курсы | 📚 Книги | 📊 Данные | 🙋‍♂️ Посты | ✊ Софт
